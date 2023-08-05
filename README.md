@@ -21,11 +21,6 @@
      go build hello.go
      ```
   ## Usage
-     ```
-     go run hello.go
-     ```
-  or
-  
-     ```
+    ```
      .\hello.exe
-     ```
+    ```
