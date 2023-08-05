@@ -24,7 +24,7 @@ go build hello.go
 ## Usage
   
 ~~~
-.\crawl.exe
+.\hello.exe
 ~~~
 ~~~
 go run hello.go
