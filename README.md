@@ -27,6 +27,5 @@
      go run hello.go
      ```
 
-     ```
-     .\hello.exe
-     ```     
+     
+     ~~~.\hello.exe~~~     
